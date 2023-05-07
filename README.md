@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Jorge Hernández</h1>
-<h3 align="center">Soy estudiante de ingeniería en sistemas en computación y actualmente he completado aproximadamente un 70% de mi carrera universitaria. Me apasiona la programación y he trabajado con diversos lenguajes y tecnologías como Python, Java, HTML, CSS, MySQL y SQL Server. Además, tengo experiencia en el manejo de control de versiones con GitHub. 🌐 En el ámbito profesional, me desempeño como técnico en redes informáticas, lo que me ha brindado un sólido conocimiento en la infraestructura y la administración de sistemas. 🎯 Mis metas a corto plazo incluyen convertirme en un desarrollador frontend, mientras que, a largo plazo, aspiro a ser un desarrollador full stack, combinando mis habilidades en programación y redes para crear soluciones integrales e innovadoras. 🔍 Siéntete libre de explorar mis repositorios y proyectos, ¡espero que encuentres algo interesante! Si tienes alguna pregunta o simplemente deseas conectarte, no dudes en contactarme.</h3>
+### 👋 ¡Hola! Soy [Tu Nombre]
+
+Estudiante de ingeniería en sistemas en computación y actualmente he completado aproximadamente un 70% de mi carrera universitaria. Me apasiona la programación y he trabajado con diversos lenguajes como Python, Java, HTML, CSS, MySQL y SQL Server. Además, tengo experiencia en el manejo de control de versiones con GitHub.
+
+### 🌐 Experiencia profesional
+
+Me desempeño como técnico en redes informáticas, lo que me ha brindado un sólido conocimiento en la infraestructura y la administración de sistemas.
+
+### 🎯 Metas y aspiraciones
+
+Mis metas a corto plazo incluyen convertirme en un desarrollador frontend, mientras que a largo plazo, aspiro a ser un desarrollador full stack, combinando mis habilidades en programación y redes para crear soluciones integrales e innovadoras.
+
+### 🔍 Explora mis repositorios
+
+Siéntete libre de explorar mis repositorios y proyectos, ¡espero que encuentres algo interesante! Si tienes alguna pregunta o simplemente deseas conectarte, no dudes en contactarme.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorge09ha&label=Profile%20views&color=0e75b6&style=flat" alt="jorge09ha" /> </p>
 
