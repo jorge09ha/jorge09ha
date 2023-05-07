@@ -1,5 +1,7 @@
 ### 👋 ¡Hola! Soy Jorge Hernández
 
+<img src="https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png" alt="https://github.com/mouredev" style="max-width: 100%;">
+
 ### 👨🏻‍💻 Sobre mi
 
 Estudiante de ingeniería en sistemas en computación y actualmente he completado aproximadamente un 70% de mi carrera universitaria. Me apasiona la programación y he trabajado con diversos lenguajes como Python, Java, HTML, CSS, MySQL y SQL Server. Además, tengo experiencia en el manejo de control de versiones con GitHub.
