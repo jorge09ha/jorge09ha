@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jorge Hernández</h1>
-### 👋 ¡Hola! Soy [Tu Nombre]
+### 👋 ¡Hola! Soy Jorge Hernández
+
+### 👨🏻‍💻 Sobre mi
 
 Estudiante de ingeniería en sistemas en computación y actualmente he completado aproximadamente un 70% de mi carrera universitaria. Me apasiona la programación y he trabajado con diversos lenguajes como Python, Java, HTML, CSS, MySQL y SQL Server. Además, tengo experiencia en el manejo de control de versiones con GitHub.
 
