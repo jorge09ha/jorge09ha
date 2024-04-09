@@ -23,13 +23,3 @@ Mis metas a corto plazo incluyen convertirme en un desarrollador frontend, mient
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jorge09ha&theme=radical&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge09ha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=jorge09ha&icon=5&color=6)](https://visitcount.itsvg.in)
