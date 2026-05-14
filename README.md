@@ -2,8 +2,6 @@
 
 #### 👋 ¡Hola! Soy Jorge Hernández
 
-# Jorge Hernández
-
 Ingeniero en Sistemas con background en redes, infraestructura y virtualización, orientado al diseño y arquitectura de software.
 
 Durante más de 10 años he trabajado en entornos tecnológicos empresariales, desarrollando una perspectiva integral sobre escalabilidad, continuidad operativa y diseño de soluciones. Actualmente enfoco esa experiencia en el desarrollo de software y arquitectura de sistemas, construyendo plataformas pensadas para evolucionar, mantenerse y adaptarse a largo plazo.
