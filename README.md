@@ -2,11 +2,24 @@
 
 #### 👋 ¡Hola! Soy Jorge Hernández
 
-Soy ingeniero en sistemas con grado de bachiller y actualmente curso la Licenciatura en Ingeniería del Software, con una proyección clara hacia la arquitectura y el diseño de software como objetivo profesional. Tras más de una década de experiencia en redes, infraestructura de TI y virtualización, he desarrollado una visión integral de los sistemas tecnológicos. Aplico esta perspectiva estratégica al diseño de software, enfocándome en arquitecturas escalables y soluciones a largo plazo alineadas con objetivos de negocio. En esta transición hacia roles de desarrollo y arquitectura de software, destaco por planificar con visión de futuro, integrar buenas prácticas de ingeniería y asegurar que cada proyecto esté orientado a la innovación y la eficiencia.
+# Jorge Hernández
 
-### 🌐 Experiencia profesional
+Ingeniero en Sistemas con background en redes, infraestructura y virtualización, orientado al diseño y arquitectura de software.
 
-Más de diez años de experiencia en redes e infraestructura de TI, enfocado en el diseño, implementación y mantenimiento de entornos virtualizados y redes empresariales. He liderado proyectos, y actualmente complemento esta experiencia con formación en ingeniería del software para enfocarme en el diseño y arquitectura de soluciones tecnológicas.
+Durante más de 10 años he trabajado en entornos tecnológicos empresariales, desarrollando una perspectiva integral sobre escalabilidad, continuidad operativa y diseño de soluciones. Actualmente enfoco esa experiencia en el desarrollo de software y arquitectura de sistemas, construyendo plataformas pensadas para evolucionar, mantenerse y adaptarse a largo plazo.
+
+## 🚀 Áreas de interés
+
+- Arquitectura de software
+- Desarrollo backend
+- Automatización
+- Infraestructura y cloud
+- Diseño de plataformas escalables
+- Integración entre sistemas
+
+## 💡 Enfoque
+
+Disfruto transformar necesidades complejas en soluciones estructuradas, eficientes y sostenibles.
 
 ### 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
